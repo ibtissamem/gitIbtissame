@@ -1020,3 +1020,11 @@ git remote add origin remote https://github.com/KhalidAgdmoun/udd-k8s.git
 git add pipelineJenkins.yaml 
 git push -u origin master
 git init
+git add .
+git commit -m "First ct"
+git remote add origin remote https://github.com/KhalidAgdmoun/udd-k8s.git
+git remote -v
+git push origin master
+git remote add origin remote https://github.com/KhalidAgdmoun/udd-k8s.git
+git remote add origin remote https://github.com/ibtissamem/udd-k8s.git
+git remote add origin remote https://github.com/KhalidAgdmoun/udd-k8s.git
